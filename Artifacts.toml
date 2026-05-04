@@ -1,0 +1,86 @@
+[[GAP_pkg_edim]]
+arch = "aarch64"
+git-tree-sha1 = "ee180c54e1758b31256734ee14af31312c2ee86d"
+os = "macos"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "a3e64cdabdd39fef54e1be57b46925cf171e19daf3f59abb8acfad1348ef9078"
+    url = "https://github.com/lgoettgens/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v101.30800.1+0/GAP_pkg_edim.v101.30800.1.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_edim]]
+arch = "aarch64"
+git-tree-sha1 = "f4b1e966188d228f554eac67c5fc695f481dd402"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "33a0611e351727525eb6ef67723805e05f92955aa6cc1959fc5538ac1a602e1c"
+    url = "https://github.com/lgoettgens/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v101.30800.1+0/GAP_pkg_edim.v101.30800.1.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_edim]]
+arch = "aarch64"
+git-tree-sha1 = "dcac834dc24ea42a33b53a8b8dc78e3887e60772"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "32031f8dd478998bb7deb721c59fd1a614a8d3f7de0255847516d084d38bf49f"
+    url = "https://github.com/lgoettgens/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v101.30800.1+0/GAP_pkg_edim.v101.30800.1.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_edim]]
+arch = "aarch64"
+git-tree-sha1 = "2e4e70cbef16c3ea6d526c8a03bb717fd9c1b7ad"
+os = "freebsd"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "915137ab8a0d68f3c05ca8894e81684683a63c6991329c88e7a939f730a0d2dd"
+    url = "https://github.com/lgoettgens/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v101.30800.1+0/GAP_pkg_edim.v101.30800.1.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_edim]]
+arch = "powerpc64le"
+git-tree-sha1 = "eac6266f17f0ff52ef41b87995b7430812d877cd"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "a56d4d1b401e45d037d489c2d40249c965cb6711ff82cadfee90ceb98b674704"
+    url = "https://github.com/lgoettgens/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v101.30800.1+0/GAP_pkg_edim.v101.30800.1.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_edim]]
+arch = "riscv64"
+git-tree-sha1 = "6c250b604b86cd4a1d2dfcf70c70d27afd5b8d3b"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "813d1da692d105ac459b74a0b61785e849518bc266db01e857fca84439e96db3"
+    url = "https://github.com/lgoettgens/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v101.30800.1+0/GAP_pkg_edim.v101.30800.1.riscv64-linux-gnu.tar.gz"
+[[GAP_pkg_edim]]
+arch = "x86_64"
+git-tree-sha1 = "305065e5315bde672071479debcf2efe10d80374"
+os = "macos"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "e2cfb153fcfe5810f03be2d85d9191d23e70843a347b47d8896fbf2d07b345b6"
+    url = "https://github.com/lgoettgens/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v101.30800.1+0/GAP_pkg_edim.v101.30800.1.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_edim]]
+arch = "x86_64"
+git-tree-sha1 = "30b8fd2e42efaadf8a9afa14ade7ca0a5356537f"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "6bf3fd7f5b401d0e62937f738863d5c35d0ae17a448f321c5202512e25912257"
+    url = "https://github.com/lgoettgens/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v101.30800.1+0/GAP_pkg_edim.v101.30800.1.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_edim]]
+arch = "x86_64"
+git-tree-sha1 = "817f053b0b730c71fd1786d980007f48fc471c31"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "471039a7db8159454a1539d261f7ce4a4b7aadc40cd3bd716a7cd7f8ab77774e"
+    url = "https://github.com/lgoettgens/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v101.30800.1+0/GAP_pkg_edim.v101.30800.1.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_edim]]
+arch = "x86_64"
+git-tree-sha1 = "805e6624d340dae429296a4a0f979f994852da35"
+os = "freebsd"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "b92fdce3d384dd8f93978081341f6aaa58e365bb9ebde0d4ef18a315d70671b5"
+    url = "https://github.com/lgoettgens/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v101.30800.1+0/GAP_pkg_edim.v101.30800.1.x86_64-unknown-freebsd.tar.gz"
